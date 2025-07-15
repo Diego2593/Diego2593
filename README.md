@@ -22,7 +22,9 @@ Soy un profesional con perfil híbrido en análisis de datos y marketing digital
 
 ### 🌍 Sobre mí
 - Multilingüe: Español 🇪🇸, Inglés 🇺🇸, Portugués 🇧🇷, Italiano 🇮🇹
-- Formación adicional: Músico profesional (Jazz) → disciplina, creatividad, escucha activa
+- Formación adicional: Músico profesional (Jazz) → soft skills: discipline, creativity, active listening, resilience, teamwork.
+
+
 - Apasionado por la mejora continua y los desafíos que combinan datos + impacto humano
 
 ---

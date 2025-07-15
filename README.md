@@ -1,13 +1,14 @@
 # 👋 Hola, soy Diego Alexis Mosquera Mora
 
-🎯 **Multilingual Data & Digital Marketing Analyst** 🇪🇸🇺🇸🇧🇷🇮🇹
+🎯 **Multilingual Data & Digital Marketing Analyst** 4 idiomas: Español (nativo), Inglés (avanzado), Portugués (avanzado), Italiano (intermedio)
+
 
 Soy un profesional con perfil híbrido en análisis de datos y marketing digital, apasionado por integrar estrategia, datos y creatividad para resolver problemas reales y aportar valor a negocios.
 
 ---
 
 ### 💻 Tech Stack
-- **Datos:** MySQL • Python (beginner) • Power BI • Looker Studio • Excel avanzado
+- **Datos:** MySQL • Python (beginner) • Power BI • Looker Studio • Excel avanzado • Google Sheets
 - **Marketing Digital:** Google Ads • Email Marketing • Redes Sociales • Storytelling
 - **Herramientas:** Canva • Notion • GitHub
 
@@ -27,4 +28,4 @@ Soy un profesional con perfil híbrido en análisis de datos y marketing digital
 ---
 
 📫 **Conectemos:**  
-[LinkedIn](https://www.linkedin.com/in/tu-link) | [Portafolio Notion](https://www.notion.so/tu-link)
+[LinkedIn](www.linkedin.com/in/diego-mosquera-mora) | [Portafolio Notion]([https://www.notion.so/tu-link](https://www.notion.so/Hola-2157f2063b2880cdb922d214a2a83309?source=copy_link))

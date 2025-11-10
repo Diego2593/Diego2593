@@ -17,7 +17,7 @@ Soy un profesional con perfil híbrido en análisis de datos y marketing digital
 ### 📈 Proyectos Destacados
 - 🏥 **Análisis de Datos ONG:** Optimización de procesos usando Python, MySQL, Power BI → insights clave para tomadores de decisiones.
 - 🌱 **Campaña Digital Bionutra:** +500% crecimiento en seguidores orgánicos, engagement 8.7%, primer lead calificado en 7 días.
-
+- 🛒 Tienda Saludable – Customer Insights & Segmentación: Análisis del comportamiento de compra y valor del cliente con MySQL → vistas RFM, performance de marketing y KPIs ejecutivos.
 ---
 
 ### 🌍 Sobre mí

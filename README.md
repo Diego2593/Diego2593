@@ -31,5 +31,5 @@ Soy un profesional con perfil híbrido en análisis de datos y marketing digital
 
 📫 **Conectemos:**  
 **Conectemos:**  
-[LinkedIn](https://www.linkedin.com/in/diego-mosquera-mora) | [Portafolio Notion][(https://www.notion.so/Hola-2157f2063b2880cdb922d142a2a83309?source=copy_link)](https://www.notion.so/Hola-2157f2063b2880cdb922d214a2a83309?source=copy_link)
+[LinkedIn](https://www.linkedin.com/in/diego-mosquera-mora) | [Portafolio Notion][[(https://www.notion.so/Hola-2157f2063b2880cdb922d142a2a83309?source=copy_link)](https://www.notion.so/Hola-2157f2063b2880cdb922d214a2a83309?source=copy_link)](https://www.notion.so/Hola-2157f2063b2880cdb922d214a2a83309?source=copy_link)
 
